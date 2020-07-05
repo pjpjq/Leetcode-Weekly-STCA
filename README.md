@@ -1,5 +1,6 @@
 # Leetcode-Weekly-STCA
-STCA coding club 
+STCA coding club.
+
 Progress: https://docs.google.com/spreadsheets/d/12YNJFKfFBv_mUVAx7QLksfjEkNRD_rG6oeKuWTpi75w/edit?usp=sharing
 
 ## Weekly 28: dp 3
